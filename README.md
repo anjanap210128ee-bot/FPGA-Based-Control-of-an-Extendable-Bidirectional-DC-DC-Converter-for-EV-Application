@@ -23,7 +23,7 @@ This repository contains scripts required to reproduce the simulation results pr
 | Normalized_capapcitor_stress.m | Fig. 7b |	Calculates the normalized capacitor stress on the capacitor C2 with respect to the duty ratios for the proposed as well as the rest of the converters |
 | parasitic_boost_gain.m | Fig. 10 | Plots the parasitic voltage gain of the proposed converter with respect to the duty ratio for single stage (n = 1 ) as well as for double stage (n = 2) |
 
-Also contains a simulink file, step-up.slx for understanding the working for the proposed E-BDC converter when the low voltage side is given 80 V. 
+This repository also contains a simulink file, step-up.slx for understanding the working for the proposed E-BDC converter when the low voltage side is supplied by 80 V. 
 
 ## For more info, contact: 
 anjana_p210128ee@nitc.ac.in
